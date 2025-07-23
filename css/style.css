@@ -1,5 +1,5 @@
 body {
-  background-color: #0d1117;
+  background-color: #240046;
   font-family: 'Segoe UI', sans-serif;
   color: white;
   height: 100vh;
@@ -11,7 +11,7 @@ body {
 
 
 .todo-container {
-  background: #161b22;
+  background: #3c096c;
   padding: 20px 30px;
   border-radius: 10px;
   width: 600px;
@@ -43,13 +43,13 @@ button {
   padding: 10px 15px;
   border: none;
   border-radius: 5px;
-  background: #6e40c9;
+  background: #5a189a;
   color: white;
   cursor: pointer;
 }
 
 button:hover {
-  background: #8a63d2;
+  background: #e0aaff;
 }
 
 .actions {
